@@ -1,0 +1,118 @@
+{
+  "customers": [
+    {
+      "name": "Johnny",
+      "surname": "Doe",
+      "cellNumber": "012 345 6789",
+      "id": "1",
+      "comments": "I am growing my frontend skills too.",
+      "postalAddress": {
+        "firstline": "123 Foo street",
+        "secondline": "Bar None",
+        "thirdline": "South africa",
+        "fourthline": "1234"
+      },
+      "physicalAddress": {
+        "firstline": "123 Foo street",
+        "secondline": "Bar None",
+        "thirdline": "South africa",
+        "fourthline": "1234"
+      }
+    },
+    {
+      "name": "Janey",
+      "surname": "Doe",
+      "cellNumber": "012 345 6780",
+      "id": "2",
+      "comments": "I am growing my frontend skills too.",
+      "postalAddress": {
+        "firstline": "123 Foo street",
+        "secondline": "Bar None",
+        "thirdline": "South africa",
+        "fourthline": "1234"
+      },
+      "physicalAddress": {
+        "firstline": "123 Foo street",
+        "secondline": "Bar None",
+        "thirdline": "South africa",
+        "fourthline": "1234"
+      }
+    },
+    {
+      "name": "Joe",
+      "surname": "Smit",
+      "cellNumber": "012 345 6781",
+      "id": "3",
+      "comments": "I am growing my frontend skills too.",
+      "postalAddress": {
+        "firstline": "123 Foo street",
+        "secondline": "Bar None",
+        "thirdline": "South africa",
+        "fourthline": "1234"
+      },
+      "physicalAddress": {
+        "firstline": "123 Foo street",
+        "secondline": "Bar None",
+        "thirdline": "South africa",
+        "fourthline": "1234"
+      }
+    },
+    {
+      "name": "Jane",
+      "surname": "Smit",
+      "cellNumber": "012 345 6788",
+      "id": "4",
+      "comments": "I am growing my frontend skills too.",
+      "postalAddress": {
+        "firstline": "123 Foo street",
+        "secondline": "Bar None",
+        "thirdline": "South africa",
+        "fourthline": "1234"
+      },
+      "physicalAddress": {
+        "firstline": "123 Foo street",
+        "secondline": "Bar None",
+        "thirdline": "South africa",
+        "fourthline": "1234"
+      }
+    },
+    {
+      "name": "tester",
+      "surname": "Doe",
+      "cellNumber": "1233321233",
+      "physicalAddress": {
+        "firstline": "71 14th Road",
+        "secondline": "Noordwyk",
+        "thirdline": "Midrand",
+        "fourthline": "1600"
+      },
+      "postalAddress": {
+        "firstline": "71 14th Road",
+        "secondline": "Noordwyk",
+        "thirdline": "Midrand",
+        "fourthline": "1600"
+      },
+      "comments": "Testing my angular skills",
+      "id": "jxRM2-c"
+    },
+    {
+      "name": "James",
+      "surname": "Brady",
+      "cellNumber": "1233321233",
+      "physicalAddress": {
+        "firstline": "71 14th Road",
+        "secondline": "Noordwyk",
+        "thirdline": "Midrand",
+        "fourthline": "1600"
+      },
+      "postalAddress": {
+        "firstline": "71 14th Road",
+        "secondline": "Noordwyk",
+        "thirdline": "Midrand",
+        "fourthline": "1600"
+      },
+      "comments": "Testing my angular skills",
+      "id": "NWhIZLv"
+    }
+  ]
+}
